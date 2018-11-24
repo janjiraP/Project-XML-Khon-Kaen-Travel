@@ -1,0 +1,87 @@
+/*!
+ * Start Bootstrap - Full Slider (https://startbootstrap.com/template-overviews/full-slider)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-slider/blob/master/LICENSE)
+ */
+ body{
+	font-family: 'Kanit', sans-serif;
+	font-size: 14pt;
+	max-width: 1600px !important;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: 300;
+  color: rgb(56, 56, 56) !important;
+  background-color: rgb(249, 249, 249);
+  line-height: 30px;
+  }
+.body-hight{
+  min-height: 500px !important;
+}
+.border{
+  border:1px solid #28a745 !important;
+}
+nav{
+  max-width: 1600px !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.bg-dark{
+  background-color: #3bb143 !important;
+}
+.bg-w {
+	background-color: #f1fff2;
+}
+a{
+  text-decoration: none !important;
+  color: #2E2E2E;
+}
+
+.card-body {
+  background-color: #00920f !important;
+  border: 0px !important;
+  cursor: pointer;
+}
+.card-text{
+    color: #fff;
+    /* color: #ffc107; */
+    font-size: 10pt;
+}
+.card-body:hover {
+  color: #be0f34;
+}
+.card:hover .overlay {
+  opacity: 1;
+}
+
+.card {
+  border: 1px solid rgba(0, 0, 0, 0.100) !important;
+}
+.card:hover {
+  box-shadow: 0 0 30px #414141;
+}
+
+.carousel-item {
+  height: 100vh;
+  /* min-height: 300px; */
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.carousel-item {
+  max-height: 800px;
+}
+.carousel-item img {
+  max-height: 800px;
+}
